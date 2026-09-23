@@ -22,7 +22,7 @@
         "description": "Pemetaan aliran data (Data Flow Diagram) antara Customer, Admin, dan Payment Gateway dengan sistem web, API, dan Database.  Setelah semua kolom diisi dengan teks di atas, klik tombol merah Simpan"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Fahri",
     "threatTop": 0
   }
